@@ -1,0 +1,1 @@
+sass --watch styleofdoom_infinia.scss:../css/styleofinfinia.css

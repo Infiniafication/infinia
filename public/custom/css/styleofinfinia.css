@@ -1,0 +1,44 @@
+.continuous {
+  margin-top: 0px;
+  margin-bottom: 0px; }
+
+.darker {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  -webkit-filter: blur(10px);
+  -moz-filter: blur(10px); }
+
+.default-text-shadow, .jumbotron-transparent {
+  text-shadow: 1px 1px 0.1em #505050; }
+
+.jumbotron-transparent {
+  background: rgba(0, 0, 0, 0.6);
+  color: #FFFFFF; }
+
+.jumbotron-transparent > h1 {
+  font-size: 72px; }
+
+.jumbotron-transparent a:link {
+  color: #EDA59D; }
+
+.jumbotron-transparent a:visited {
+  color: #AD7D78; }
+
+.jumbotron-transparent a:hover {
+  color: #FAC6C0; }
+
+.jumbotron-transparent a:active {
+  color: #FFFFFF; }
+
+.jumbotron-white {
+  background-color: #FFFCF5; }
+
+.screen-wide {
+  padding-left: 0px;
+  padding-right: 0px; }
+
+@media screen and (min-width: 1024px) {
+  #yt-gunz-hands {
+    padding-left: 12em; } }
+
+/*# sourceMappingURL=styleofinfinia.css.map */
