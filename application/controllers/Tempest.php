@@ -44,6 +44,7 @@ class Tempest extends CI_Controller {
 		parent::__construct();
 		$this->data['alpha'] = $this->load->view('templates/alpha', '', TRUE);
 		$this->data['omega'] = $this->load->view('templates/omega', '', TRUE);
+		$this->data['nav'] = $this->load->view('templates/nav', '', TRUE);
 	}
 
 	/**

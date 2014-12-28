@@ -6,6 +6,7 @@
 	<?=$alpha?>
 </head>
 <body>
+	<?=$nav?>
 	<div class="container-fluid parallax-window screen-wide" data-parallax="scroll" data-image-src="<?=base_url('public/img/kurobg.png')?>">
 		<div class="jumbotron jumbotron-transparent continuous">
 			<h1>Welcome to Infinia's Summer Home!</h1>
@@ -15,11 +16,11 @@
 			<div class="darker">
 				<p>
 					My name is <strong>Isaac Yong</strong> (Infiniafication or Infinia) and I am from <a href="https://goo.gl/maps/JQOAO" target="_blank">Kuching, Sarawak, Malaysia</a>. <br /> 
-					I'm currently <?=date('Y')-1993?> years old and I've just recently completed the final semester of my degree in Computer Science at <a href="http://www.swinburne.edu.my/" target="_blank">Swinburne University of Technology, Sarawak Campus</a>.
+					I'm currently <?=date('Y')-1993?> years old and I've just recently completed the final semester of my Bachelor's Degree in Computer Science at <a href="http://www.swinburne.edu.my/" target="_blank">Swinburne University of Technology, Sarawak Campus</a>.
 				</p>
 				<p>
 					I worked in a team of four for my <strong>Final Year Project</strong> entitled "Smart Home". I was assigned as the project team leader who was responsible for planning and making sure the project ran smoothly. Besides that, I was the lead Frontend Developer and was in charge of <abbr title="User Experience">UX</abbr> and the <abbr title="User Interface">UI</abbr> for the mobile web application which you may see a <a href="../smarthome" target="_blank">sample here</a>. <br />
-					You may read more about my project <a href="#">here</a>.
+					You may read more about my project <a href="site_url('fyp')">here</a>.
 				</p>
 			</div>
 		</div> <!-- /jumbotron -->

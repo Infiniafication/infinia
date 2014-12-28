@@ -6,6 +6,7 @@
 	<?=$alpha?>
 </head>
 <body>
+	<?=$nav?>
 	<div class="container-fluid parallax-window screen-wide" data-parallax="scroll" data-image-src="<?=base_url('public/img/kurobg.png')?>">
 		<div class="jumbotron jumbotron-white continuous">
 			<h1>GunZ: The Duel <small>Not to be confused with GunZ: The Second Duel</small></h1>
