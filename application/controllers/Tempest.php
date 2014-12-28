@@ -47,21 +47,6 @@ class Tempest extends CI_Controller {
 		$this->data['nav'] = $this->load->view('templates/nav', '', TRUE);
 	}
 
-	/**
-	 * Index Page for this controller.
-	 *
-	 * Maps to the following URL
-	 * 		http://example.com/index.php/welcome
-	 *	- or -
-	 * 		http://example.com/index.php/welcome/index
-	 *	- or -
-	 * Since this controller is set as the default controller in
-	 * config/routes.php, it's displayed at http://example.com/
-	 *
-	 * So any other public methods not prefixed with an underscore will
-	 * map to /index.php/welcome/<method_name>
-	 * @see http://codeigniter.com/user_guide/general/urls.html
-	 */
 	public function index()
 	{
 		$this->load->view('index', $this->data);
@@ -70,6 +55,11 @@ class Tempest extends CI_Controller {
 	public function games()
 	{
 		$this->load->view('games', $this->data);
+	}
+
+	public function fyp()
+	{
+		$this->load->view('fyp', $this->data);
 	}
 }
 

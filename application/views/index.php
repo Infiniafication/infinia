@@ -20,7 +20,7 @@
 				</p>
 				<p>
 					I worked in a team of four for my <strong>Final Year Project</strong> entitled "Smart Home". I was assigned as the project team leader who was responsible for planning and making sure the project ran smoothly. Besides that, I was the lead Frontend Developer and was in charge of <abbr title="User Experience">UX</abbr> and the <abbr title="User Interface">UI</abbr> for the mobile web application which you may see a <a href="../smarthome" target="_blank">sample here</a>. <br />
-					You may read more about my project <a href="site_url('fyp')">here</a>.
+					You may read more about my project <a href="<?=site_url('fyp')?>">here</a>.
 				</p>
 			</div>
 		</div> <!-- /jumbotron -->
