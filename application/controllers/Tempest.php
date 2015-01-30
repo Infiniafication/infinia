@@ -61,6 +61,11 @@ class Tempest extends CI_Controller {
 	{
 		$this->load->view('fyp', $this->data);
 	}
+
+	public function udk()
+	{
+		$this->load->view('udk', $this->data);
+	}
 }
 
 /* End of file Tempest.php */

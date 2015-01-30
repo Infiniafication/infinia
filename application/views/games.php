@@ -9,6 +9,8 @@
 	<?=$nav?>
 	<div class="container-fluid parallax-window screen-wide" data-parallax="scroll" data-image-src="<?=base_url('public/img/kurobg.png')?>">
 		<div class="jumbotron jumbotron-white continuous">
+			<h1>This page is incomplete and currently under construction! <small>But feel free to read on. :)</small></h1>
+			<hr>
 			<h1>GunZ: The Duel <small>Not to be confused with GunZ: The Second Duel</small></h1>
 			<p>
 				This was the first "competitive game" that I played. It was a fast paced action <abbr title="Third-Person Shooter">TPS</abbr> game which required a lot of skill and practice to master. It seemed to me that there was an unlimited learning curve due to the nature of the game &#8212; the game was based around "glitching" to manually create &amp; recreate "moves" which players use to play. This "glitching" is commonly known by players as "K-Style (stance)".

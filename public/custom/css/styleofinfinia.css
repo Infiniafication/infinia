@@ -11,6 +11,9 @@
 .default-text-shadow, .jumbotron-transparent {
   text-shadow: 1px 1px 0.1em #505050; }
 
+.fyp {
+  text-decoration: underline; }
+
 .jumbotron-transparent {
   background: rgba(0, 0, 0, 0.6);
   color: #FFFFFF; }
@@ -32,6 +35,9 @@
 
 .jumbotron-white {
   background-color: #FFFCF5; }
+
+.my-list {
+  font-size: 1.2em; }
 
 .screen-wide {
   padding-left: 0px;

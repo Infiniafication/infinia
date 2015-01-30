@@ -1,4 +1,4 @@
-// This is where all the styling magic occurs!
+// Sorted alphanumerically.
 
 .continuous {
 	margin-top: 0px;
@@ -14,6 +14,10 @@
 
 .default-text-shadow {
 	text-shadow: 1px 1px 0.1em #505050;
+}
+
+.fyp {
+	text-decoration: underline;
 }
 
 .jumbotron-transparent {
@@ -45,6 +49,15 @@
 .jumbotron-white {
 	background-color: #FFFCF5;
 }
+
+.my-list {
+	font-size: 1.2em;
+}
+
+// To be added at a later date
+// .navbar {
+// 	background: rgba(255, 163, 186, 0.8);
+// }
 
 .screen-wide {
 	padding-left: 0px;
