@@ -36,10 +36,11 @@
 					</p>
 					<h2>Download Installer</h2>
 					<p>
-						<a href="https://onedrive.live.com/redir?resid=6911C3F9273E7FD2!1422&authkey=!AFtigVqdTs9jfOs&ithint=file%2cexe">OneDrive</a>
+						<a href="https://onedrive.live.com/redir?resid=6911C3F9273E7FD2!1422&authkey=!AFtigVqdTs9jfOs&ithint=file%2cexe">OneDrive</a> (~332 MB)
 					</p>
 					<h2>Kismet Overview</h2>
 					<img src="<?=base_url('public/img/caretakerkismetoverview.png')?>" alt="Kismet Overview" class="img-rounded" width="100%">
+					<small>Source project files, Kismet screenshots or explanations available upon request!</small>
 				</div> <!-- /col-lg-8 -->
 			</div> <!-- /row -->
 		</div> <!-- /jumbotron -->
