@@ -15,7 +15,7 @@
     <div class="collapse navbar-collapse" id="main-navbar-collapse">
       <ul class="nav navbar-nav">
         <li class="<?=((strcmp(current_url(), site_url()) === 0) || (strcmp(current_url(), site_url('tempest')) === 0)) ? ' active' : '' ?>"><a href="<?=site_url()?>">Introduction</a></li>
-        <li><a href="<?=site_url('../smarthome')?>" target="_blank"><abbr title="Final Year Project">FYP</abbr></a></li>
+        <li><a href="<?=site_url('../smarthome/index.php')?>" target="_blank"><abbr title="Final Year Project">FYP</abbr></a></li>
         <li class="<?=(strpos(uri_string(), 'tempest/udk') !== FALSE) ? ' active' : '' ?>"><a href="<?=site_url('tempest/udk')?>"><abbr title="Unreal Development Kit">UDK</abbr> Sample</a></li>
         <li><a href="https://www.dropbox.com/sh/q6s49e8y1jlo34c/AAA0Zel0QOPvI7gGLqqKCdCja?dl=0" target="_blank">Game Ideas &amp; Concepts (Drafts)</a></li>
         <li class="<?=(strpos(uri_string(), 'tempest/games') !== FALSE) ? ' active' : '' ?>"><a href="<?=site_url('tempest/games')?>">Played Games</a></li>
