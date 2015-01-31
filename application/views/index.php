@@ -69,7 +69,7 @@
 					<div class="darker">
 						<h2>Who is that in the background?</h2>
 						<p>
-							That's Ciel Phantomhive from the anime Black Butler (<span lang="ja">黒執事</span> or Kuroshitsuji). <br />
+							That's my drawing of Ciel Phantomhive from the anime Black Butler (<span lang="ja">黒執事</span> or Kuroshitsuji). It's my first time drawing a character (doesn't look too good but I'd rather this than get sued for using someone else's work :P)! <br />
 							He's one of my favourite characters thus far in all of the movies and anime that I've watched. He is determined and makes a firm stand on what he believes in. He bears a tainted path and a scarred life (some would call it cursed) but accepts his fate and continues to move forward. Despite it all, he still has a kind heart for others and wishes for them to not be involved with him too much because of the darkness that he may bring upon them. <br />
 						</p>
 					</div>
