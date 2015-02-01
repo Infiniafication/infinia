@@ -1,6 +1,25 @@
+.contact-envelope {
+  padding-left: 18px; }
+
 .continuous {
   margin-top: 0px;
   margin-bottom: 0px; }
+
+.credits-icon {
+  background-color: #000000;
+  color: #FFFFFF; }
+
+.credits-icon a:link {
+  color: #EDA59D; }
+
+.credits-icon a:visited {
+  color: #AD7D78; }
+
+.credits-icon a:hover {
+  color: #FAC6C0; }
+
+.credits-icon a:active {
+  color: #FFFFFF; }
 
 .darker {
   background: rgba(0, 0, 0, 0.3);
@@ -36,6 +55,10 @@
 
 .my-list {
   font-size: 1.2em; }
+
+.nav-icon {
+  font-size: 12px;
+  margin-left: 3px; }
 
 .screen-wide {
   padding-left: 0px;
