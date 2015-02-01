@@ -19,7 +19,7 @@
 						This sample was done with a very packed timeframe (while I was busy with <abbr title="Final Year Project">FYP</abbr>).
 						The purpose of this sample was more inclined towards learning UDK and testing out different things. It is far from representing a proper concept.
 						<br />
-						<strong>TL;DR: Please don't judge my best ability based on this sample. It was done to learn and test UDK.</strong>
+						<strong>TL;DR: Please don't judge my best ability based on this sample. It was done to learn and test UDK.</strong> <br />
 						Also, I do not own any assets used in the game!
 					</p>
 					<p>

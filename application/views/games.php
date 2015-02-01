@@ -9,7 +9,7 @@
 	<?=$nav?>
 	<div class="container-fluid parallax-window screen-wide" data-parallax="scroll" data-image-src="<?=base_url('public/img/kurobg.png')?>">
 		<div class="jumbotron jumbotron-white continuous">
-			<h1>This page is incomplete and currently under construction! <small>But feel free to read on. :)</small></h1>
+			<h1>This page is incomplete and currently under construction! <br /> <small>But feel free to read on. :)</small></h1>
 			<hr>
 			<h1>GunZ: The Duel <small>Not to be confused with GunZ: The Second Duel</small></h1>
 			<p>
